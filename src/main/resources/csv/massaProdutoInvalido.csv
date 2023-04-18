@@ -1,3 +1,0 @@
-Nome; Valor; Cores; Componente; Quantidade Componente; Resultado Esperado
-Playstation 5; 0.00; Preto, Branco, Azul; Cabo de força; 1;O valor do produto deve estar entre R$ 0,01 e R$ 7.000,00
-Playstation 5; 7001.00; Preto, Branco, Azul; Cabo de força; 1;O valor do produto deve estar entre R$ 0,01 e R$ 7.000,00
